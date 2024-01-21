@@ -28,7 +28,7 @@ h1{
 input:focus { 
     outline: none !important;
     border: 2px solid black;
-    box-shadow: 0 0 10px black;
+/*     box-shadow: 0 0 10px black; */
  }
 
 button{
@@ -41,13 +41,13 @@ button{
     color: white;
     font-size: 0.9rem;
     font-weight: 500;
-    margin-left: 1.2rem;
+    margin-left: 0.2rem;
     border: 1px solid black;
     cursor: pointer;
 }
 ul{
     width:50%;
-    min-width: 360px;
+    min-width: 340px;
     margin: auto;
     /* margin-left: -130px; */
     /* display: flex;
